@@ -34,10 +34,10 @@ File creation and checking
 
 Usage:
 ----
-
+```
 chmod +x name_logger.sh
 ./name_logger.sh
-
+```
 2. Thought of the Day 
    -------------------
 Stores the user's daily thoughts in thoughts.txt and optionally displays the notes.
