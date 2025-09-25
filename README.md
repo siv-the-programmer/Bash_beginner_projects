@@ -57,14 +57,41 @@ Script readability with sections and comments
 
 Usage:
 ```
+chmod +x backup_log.sh
+./backup_log.sh
+```
+3. Simple Backup
+   ------------
+Backs up a file or folder to a path of your choice and logs it to baclog.txt
+
+Focus & Learning:
+-----
+echo 
+
+cp
+
+Variables & date formatting
+
+Logging input to a text file
+
+if & else statements for user choices
+
+Script readability with sections and comments
+
+Usage:
+```
 chmod +x thought_of_the_day.sh
 ./thought_of_the_day.sh
 ```
-3. Coming Soon 
+
+
+ 4. Coming Soon 
    ------------
 A new beginner-friendly Bash project will be added here soon.
 
 Focus & Learning:
 (To be updated with script purpose, concepts, and usage.)
+
 This project is licensed under the MIT License – see the LICENSE
  file for details.
+
