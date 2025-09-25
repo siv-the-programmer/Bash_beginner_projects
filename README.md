@@ -5,7 +5,7 @@ siv-the-programmer
 Hi, I’m Siv – a Cloud & DevOps enthusiast diving headfirst into Bash scripting. This repo is my playground for learning, experimenting, and leveling up from beginner to pro.
 -
 
-🔹 Repository Overview
+  Repository Overview
 ----------------------
 
 This repository contains:
@@ -16,7 +16,7 @@ LICENSE – MIT License to keep everything open and sharable.
 
  Projects
  ----
-1. Name Logger 📝
+1. Name Logger 
    --
 
 A simple script that asks the user for their name and logs it to name_log.txt with the current date.
@@ -60,7 +60,7 @@ Usage:
 chmod +x thought_of_the_day.sh
 ./thought_of_the_day.sh
 ```
-3. Coming Soon ⚡
+3. Coming Soon 
    ------------
 A new beginner-friendly Bash project will be added here soon.
 
