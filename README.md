@@ -57,9 +57,10 @@ Script readability with sections and comments
 
 Usage:
 ```
-chmod +x backup_log.sh
-./backup_log.sh
+chmod +x thought_of_the_day.sh
+./thought_of_the_day.sh
 ```
+
 3. Simple Backup
    ------------
 Backs up a file or folder to a path of your choice and logs it to baclog.txt
@@ -80,8 +81,8 @@ Script readability with sections and comments
 
 Usage:
 ```
-chmod +x thought_of_the_day.sh
-./thought_of_the_day.sh
+chmod +x backup_log.sh
+./backup_log.sh
 ```
 
 
