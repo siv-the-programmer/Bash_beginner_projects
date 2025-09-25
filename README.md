@@ -17,6 +17,7 @@ LICENSE – MIT License to keep everything open and sharable.
  Projects
  ----
 1. Name Logger 📝
+   --
 
 A simple script that asks the user for their name and logs it to name_log.txt with the current date.
 
