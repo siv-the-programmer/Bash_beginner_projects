@@ -1,9 +1,5 @@
 Bash_beginner_projects
-Top 10 Bash scripts
-siv-the-programmer 
-------------------------
-Hi, I’m Siv – a Cloud & DevOps enthusiast diving headfirst into Bash scripting. This repo is my playground for learning, experimenting, and leveling up from beginner to pro.
--
+Top 10 Bash scripts for beginners 
 
   Repository Overview
 ----------------------
