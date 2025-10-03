@@ -11,7 +11,8 @@ bash_projects/ – Beginner-friendly Bash scripts to practice automation, system
 LICENSE – MIT License to keep everything open and sharable.
 
  Projects
- ----
+----
+```
 backup_logger
 filecounter
 frequency_word_counter
@@ -20,3 +21,4 @@ name_logger
 temp_file_delete
 todolist
 weathersim
+```
